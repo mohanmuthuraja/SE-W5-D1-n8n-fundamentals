@@ -1,4 +1,4 @@
-# n8n Quick Reference for Beginners
+# n8n Quick Reference
 
 Minimal, beginner-friendly notes for future revision. Scope kept tight to what we covered.
 
